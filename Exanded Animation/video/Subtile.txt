@@ -1,0 +1,14 @@
+"The Last Cyborgian Plant" is an interactive installation of a "cyborg plant" (the combination of organism and robot) running on the space. It attempts to explore the topic of virtual content, human, machine, and networking
+
+Here is the scene demonstrate how people interact with the "cyborg plant"
+
+This project attempt to explore hybrid physical and virtual object through a cyborg plant, the interconnection between human, machine, and virtual content displaying on the device, and the interaction between physical and virtual elements
+The users will hold this custom device with custom apps to view and interact with the "virtual cell" and the "cyborg plant." By opening or closing the mouth and both eyes, users are able to control the direction and movement of the "virtual cell" displaying in the AR screen, and the behaviors of the "cyborg plant" will be affected by the position of the "virtual cell." The goal for the users is controlling the "virtual cell" to "guide" the "cyborg plant" to reach the "virtual water," once the "cyborg plant" reach the "virtual water," it will display colorful particles to create a happy scene.
+The "cyborg plant" will continue rotating while its "virtual eye" does not detect the "plant cell"
+Once the "virtual eye' detects the "plant cell", the "cyborg plant" will go straight
+
+If the user opens the mouth, the "plant cell" will go straight
+
+If the user closes the left eye, the "plant cell" will turn left
+
+If the user closes the right eye, the "plant cell" will turn right
